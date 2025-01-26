@@ -1,7 +1,7 @@
 # Google-Optimization-Batch  
 
 Google-Optimization-Batch is a powerful batch toolkit designed to optimize, manage, and streamline your Chrome experience. It features 8 specialized tools to handle everything from installation to bloatware removal.  
-VirusTotal : https://www.virustotal.com/gui/file/6dcc18f6424b4484057fbfd20eceeb675af54781a7e849348f6fec23eaa0c3fb/detection
+VirusTotal: https://www.virustotal.com/gui/file/6dcc18f6424b4484057fbfd20eceeb675af54781a7e849348f6fec23eaa0c3fb/detection
 MD5:f03701098720b1603863d1f403ee7816
 SHA-1:d91608d54bf1918a745746bae0f6fea286497dfb
 
