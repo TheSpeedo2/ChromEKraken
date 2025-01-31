@@ -1,4 +1,4 @@
-# Google-Optimization-Batch  
+  # Google-Optimization-Batch  
 **Simplify, optimize, and take control of your Chrome experience today!**
 _Google-Optimization-Batch is a powerful batch toolkit designed to optimize, manage, and streamline your Chrome experience. It features 8 specialized tools to handle everything from installation to bloatware removal._
 _Provides Performance, Lower Cpu, Memory Usage. Less Storage include. 2GB(Before) to > 900mb~1.1GB(After)._
