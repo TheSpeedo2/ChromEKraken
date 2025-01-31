@@ -3,7 +3,7 @@
 
 _Google-Optimization-Batch is a powerful batch toolkit It features 8 specialized tools._
 
-_Provides Performance, Lower Cpu, Memory Usage. Less Storage include. 2GB(Before) to > 900mb~1.1GB(After)._
+_Provides Performance, Lower Cpu, Memory Usage. Less Storage include. 2GB(Before) to > 900mb~1.1GB(After). Better Download and Upload Values_
 
 ## Features  
 - **Chrome Installation & Optimization**: Install Dev, Beta, Canary, or Stable versions with pre-configured performance flags. Includes a full uninstaller that removes Chrome, subfolders, and registry entries.  
