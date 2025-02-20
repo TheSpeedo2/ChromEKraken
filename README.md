@@ -1,4 +1,5 @@
 ![Capture](https://github.com/user-attachments/assets/ecb7ed39-f652-455a-bce1-13ba94bfbb20)
+  ![flags](https://github.com/user-attachments/assets/d6a2e21a-55ac-48d1-962e-976c77723817)
 
 
 **Features**
@@ -15,5 +16,8 @@ Strip Unnecessary Files: Delete non-essential files from the Chrome installation
 Compression: Compress Chrome's files to save disk space.
 5. Flag Settings
 Custom Launch Parameters: Set various Chrome launch flags for an optimized browsing experience.
+
 **Usage**
 Simply run the script and follow the on-screen menu to select the desired functionality. Google Optimizer makes it easy to customize and enhance your Chrome experience!
+**License**
+Under Mit-Lisence
