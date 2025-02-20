@@ -1,7 +1,5 @@
+![Capture](https://github.com/user-attachments/assets/ecb7ed39-f652-455a-bce1-13ba94bfbb20)
 
-  ![Capture]((https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v3.0))
-    ![flags]((https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v3.0))
-![Capture]([https://github.com/user-attachments/assets/b201b43e-9558-4e25-b144-683a9078cdf7]https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v3.0)
 
 **Features**
 1. Chrome Installation
