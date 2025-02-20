@@ -1,6 +1,6 @@
 ![Capture](https://github.com/user-attachments/assets/549264fe-c882-4c0c-a187-4391c162fc65)
 ![flags](https://github.com/user-attachments/assets/e5a84c71-edbc-4eb9-9cbf-15924bd194de)
-![Capture]((https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v3.0))
+![Capture]([https://github.com/user-attachments/assets/b201b43e-9558-4e25-b144-683a9078cdf7](https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v3.0))
 
 
 **Features**
