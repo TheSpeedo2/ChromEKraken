@@ -1,6 +1,5 @@
-![Capture](https://github.com/user-attachments/assets/a6c1d0ec-c540-4ead-b44d-9727bd2a6cf1)
-![flags](https://github.com/user-attachments/assets/2edc7c8e-b789-4b19-8892-a62722959096)
 
+![Capture](https://github.com/user-attachments/assets/d23237ab-5402-4d5a-8e7c-bda7877bcf04)
 
 **Features**
 1. Chrome Installation
