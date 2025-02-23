@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6c1d0ec-c540-4ead-b44d-9727bd2a6cf1" alt="Google Optimizer" width="800">
+  <img src="(https://github.com/user-attachments/assets/6043166f-bcd2-462f-be55-e481baa64461" alt="Google Optimizer" width="750">
 </p>
 
 <h1 align="center" style="color:#808080; font-family: 'Brevis Regular', sans-serif;">Google Optimizer</h1>
