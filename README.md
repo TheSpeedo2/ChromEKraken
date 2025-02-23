@@ -1,6 +1,7 @@
 <p align="center">
   <img src="(https://github.com/user-attachments/assets/6043166f-bcd2-462f-be55-e481baa64461" alt="Google Optimizer" width="750">
 </p>
+![Capture](https://github.com/user-attachments/assets/e421759d-abfb-4a60-80e9-c5fe4cdd8208)
 
 <h1 align="center" style="color:#808080; font-family: 'Brevis Regular', sans-serif;">Google Optimizer</h1>
 
