@@ -1,0 +1,126 @@
+Last Update 22:02:2025
+1. -Settings-
+!!! First : Reset settings > Help make chrome better by reporting(Off) > Reset Settings !!!
+│────────────────────────────────────────────────────────────────────────────────────────────
+├──You and google (DO IT ONLY IF YOU WANT SYNC)
+│Sync and Google services > Help improve Chrome's features and performance > Off
+│Make searches and browsing better > On
+│Enhanced spell check > Off
+│Improve search suggestions > Off
+│
+├── Autofill and passwords
+│Addresses and more > Save and fill addresses > Off
+│Password Manager > Settings > Sign in automatically > Off
+│
+├── Privacy and security
+│------------------------
+│Third-party cookies > Block third-party cookies > ON,  Send a "Do Not Track" request > ON
+│Ad privacy > Close All
+│Security > No protection, Always Use Secure connections > Off, Use Secure DNS > Off
+│Manage V8 Security> V8 Optimizer > Sites can use the V8 optimizer
+│
+├── Performance
+│------------------------
+│Performance issue alerts > Off
+│Memory Saver > On, Maximum
+│Preload pages > Off
+│
+├── Experimental AI 
+│------------------------
+│History search, powered by AI > Off
+│
+├── Search Engine
+│------------------------
+│Manage search engines and site search > Search Engines;
+│Remove expect you use
+│Site Search > Delete Gemini,Tabs
+│Inactive Shortcuts > Remove any or Active
+│
+├── Languages
+│------------------------
+│Websites in your languages > Remove any you dont use.
+│Spell Check > Off
+│
+├── Accessibility
+│------------------------
+│-Close All!
+│Swipe between pages > On,Off (If on laptop in case of use, Off if on Desktop)
+├── System
+│Continue running background apps > Off
+│Use graphics acceleration when available > Off (On if you play games on it)
+│Show system notifications about features and tips > Off
+│
+├── Extensions
+│Remove any you dont use
+────────────────────────────────────────────────────────────────────────────
+
+
+2. Extensions (!!If you want faster browsing dont use any extension!!,Add --disable-extensions in flags.bat)
+│-- uBlock Origin (Ad and tracker blocker for faster, safer browsing.)
+│-Settings
+│Block CSP reports
+│Disable Tooltips
+│Disable cosmetic filtering
+│I am an advanced user > Settings icon
+│--------------------
+disableJavaScript true
+blockUnknownScripts true
+antiFingerprinting true
+blockFontFingerprinting true
+asyncAssetFetch true
+cacheMaxSize 100MB
+prefetchDomains false
+disableFilterLists true
+filterExclusions true
+strictBlocking true
+logToFile false
+debugJS true
+detailedAssetLogs true
+uiTheme dark
+showPopupNotifications false
+forceDNSOverHTTPS true
+blockADsOnNetworkLevel true
+requestStatsEnabled true
+sessionCacheMaxSize 50MB
+allowInsecureConnections false
+enableCrossOriginRequests true
+contentSecurityPolicyLevel 2
+skipUpdatesOnError true
+disableThirdPartyCookies true
+hideExternalAssets true
+maxConcurrentRequests 8
+defaultLanguage en-US
+Copy and Paste, Apply, Done
+------------------------------
+│Extension (2)
+│--  Privacy Badger (Blocks trackers to protect your privacy.)
+│GeneralSettings
+│Check All
+│Advanced> Check The first.
+------------------------------
+│Extension (3)
+│--  WebRTC Leak Prevent (Stops WebRTC from exposing your IP address.)
+│Disable non-proxied UDP(Force Proxy)
+------------------------------
+│More Extensions For Better Browsing experience.
+│--- Hover Zoom (Enlarges images when you hover over them.)
+│--- Volume Master (Boosts volume up to 600%.)
+│--- Dark Reader (Enables dark mode on websites.)
+----------------------------------------------------
+3.Flags (chrome://flags)
+Flag Tweaks already done if you run the "Chrome Flags.bat"
+In case you want, 
+Parallel Downloads - ON (faster file downloads) --Performance Improver
+WebRTC Event Logging - OFF (stops logging WebRTC events) --Performance Improver
+Reader Mode - OFF (unnecessary for most sites)
+Hardware-Accelerated Rasterization - ON (uses GPU for faster image rendering) --Performance Improver
+Autofill Suggestions - OFF (avoids saving sensitive data)
+Tab Preview Thumbnails - OFF (disables tab hover previews)
+Block Third-Party Cookies - ON (improves privacy) --Performance Improver
+Geolocation API - OFF (enhances privacy)
+Smooth Scrolling - OFF (disables smooth scroll animations) --Enable if you want animations
+Interactive Help Tips - OFF (turns off product tours)
+Dark Mode for Web Content - ON (forces dark mode on websites) --Performance Improver
+Debug Mode for Web Apps - OFF (disables web app diagnostics) 
+Native Client Debug Logs - OFF (prevents debug info collection)
+Disabling Push Notifications - ON (blocks push notifications)
