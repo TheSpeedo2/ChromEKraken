@@ -22,17 +22,18 @@
 
 <h2 style="font-family: Arial, sans-serif;">Features</h2>
 
-<h3 style="font-family: Arial, sans-serif;">1. Chrome Installation ⚙</h3>
+<h3 style="font-family: Arial, sans-serif;">1.Chrome Installation</h3>
 <ul style="font-family: Arial, sans-serif;">
   <li>Version Selection: Latest Stable, Beta, Dev, or Canary (Chrome Variants)</li>
   <li>Optimized Installation: Chrome with performance flags.</li>
+  <li>Uninstall,Update: Uninstall or Update Chrome</li>
 </ul>
 
 <h3 style="font-family: Arial, sans-serif;">2. Registry Tweaks</h3>
 <ul style="font-family: Arial, sans-serif;">
-  <li><strong>Privacy Enhancements:</strong> Disable unnecessary features for better privacy.</li>
+  <li><strong>Privacy Enhancements:</strong> </li>
 
-  <li><strong>Performance Improvements:</strong> Speed up and optimize your browsing experience.</li>
+  <li><strong>Performance Improvements:</strong> </li>
 </ul>
 
 <h3 style="font-family: Arial, sans-serif;">3. Bloatware Removal 🗑</h3>
@@ -47,9 +48,9 @@
   <li><strong>Compression:</strong> Save disk space by compressing Chrome's files.</li>
 </ul>
 
-<h3 style="font-family: Arial, sans-serif;">5. Flag Settings 🚀</h3>
+<h3 style="font-family: Arial, sans-serif;">5. Flag Settings </h3>
 <ul style="font-family: Arial, sans-serif;">
-  <li><strong>Custom Launch Parameters:</strong> Optimize Chrome with powerful flags for a smoother browsing experience.</li>
+  <li><strong>Custom Launch Parameters:</strong> Chrome with powerful flags for a smoother browsing experience.</li>
 </ul>
 
 <hr>
