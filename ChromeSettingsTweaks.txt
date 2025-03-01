@@ -53,8 +53,6 @@ Last Update 22:02:2025
 ├── Extensions
 │Remove any you dont use
 ────────────────────────────────────────────────────────────────────────────
-
-
 2. Extensions (!!If you want faster browsing dont use any extension!!,Add --disable-extensions in flags.bat)
 │-- uBlock Origin (Ad and tracker blocker for faster, safer browsing.)
 │-Settings
