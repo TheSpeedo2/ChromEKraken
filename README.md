@@ -3,9 +3,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/user-attachments/assets/13104c33-6b9b-411d-afc9-f90b92eea905" alt="Image 1">
+     <p align="center">
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
-
+<p align="center">
+  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 <h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
 
 <h3 style="font-family: Arial, sans-serif;">1. Chrome Installation</h3>
@@ -58,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v4.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 </p>
 
 </body>
