@@ -1,7 +1,8 @@
-
+<p align="center">
 <h1>Image Gallery 🖼️</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <p align="center">
     <img src="https://github.com/user-attachments/assets/13104c33-6b9b-411d-afc9-f90b92eea905" alt="Image 1">
      <p align="center">
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
@@ -9,6 +10,12 @@
 <p align="center">
   <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 <h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
+<h1 style="font-family: Consolas, sans-serif;">Note!</h1>
+<ul style="font-family: Arial, sans-serif;">
+  <li>🔹 Google-Optimizer will make your google consume less memory,cpu usage.</li>
+  <li>🔹 Also it will make google use less storage, before: 2gb after: 500-300mb</li>
+  <li>🔹 Lastly we strictly user-friendly and opensource project.</li>
+</ul>
 
 <h3 style="font-family: Arial, sans-serif;">1. Chrome Installation</h3>
 <ul style="font-family: Arial, sans-serif;">
