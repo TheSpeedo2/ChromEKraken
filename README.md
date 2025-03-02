@@ -8,7 +8,7 @@
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download The Latest Version</a>
 <h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
 <h1 style="font-family: Consolas, sans-serif;">Note!</h1>
 <ul style="font-family: Arial, sans-serif;">
