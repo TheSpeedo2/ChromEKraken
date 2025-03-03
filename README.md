@@ -1,5 +1,6 @@
 <p align="center">
-<h1>Image Gallery 🖼️</h1>
+  <b>Image Gallery 🖼️</b>
+</p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center">
@@ -8,8 +9,9 @@
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download The Latest Version</a>
-  <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Screenshots</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
+<p align="center">
+ <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">    Screenshots</a>
 <h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
 <h1 style="font-family: Consolas, sans-serif;">Note!</h1>
 <ul style="font-family: Arial, sans-serif;">
