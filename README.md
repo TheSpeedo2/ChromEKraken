@@ -69,7 +69,7 @@
 
 <h2 style="font-family: Arial, sans-serif;">License 📜</h2>
 <p align="center" style="font-family: Arial, sans-serif;">
-  This project is licensed under the <a href="https://opensource.org/licenses/MIT" style="color:#1E90FF; font-weight: bold; text-decoration: none;">MIT License</a>.
+  This project is licensed under the <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/LICENSE" style="color:#1E90FF; font-weight: bold; text-decoration: none;">MIT License</a>.
 </p>
 
 <p align="center">
