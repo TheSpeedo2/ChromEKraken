@@ -12,12 +12,16 @@
   <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
 <p align="center">
  <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">    Screenshots</a>
-<h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
+<p align="center">
+  <b> Featuresℹ️</b>
+</p>
+<p align="center">
 <h1 style="font-family: Consolas, sans-serif;">Note!</h1>
 <ul style="font-family: Arial, sans-serif;">
   <li>🔹 Google-Optimizer will make your google consume less memory,cpu usage.</li>
-  <li>🔹 Also it will make google use less storage, before: 2gb after: 500-300mb</li>
-  <li>🔹 Lastly we strictly user-friendly and opensource project.</li>
+  <li>🔹 Faster <strong>Search Results</strong>.</li>
+  <li>🔹 Also it will make google use less storage, before: 2gb after: <strong>500-300mb</strong></li>
+  <li>🔹 Lastly we strictly <strong>user-friendly</strong> and <strong>opensource</strong> project.</li>
 </ul>
 
 <h3 style="font-family: Arial, sans-serif;">1. Chrome Installation</h3>
@@ -64,14 +68,11 @@
 <hr>
 
 <h2 style="font-family: Arial, sans-serif;">License 📜</h2>
-
 <p align="center" style="font-family: Arial, sans-serif;">
-  This project is licensed under the MIT License.
+  This project is licensed under the <a href="https://opensource.org/licenses/MIT" style="color:#1E90FF; font-weight: bold; text-decoration: none;">MIT License</a>.
 </p>
 
 <p align="center">
   <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 </p>
 
-</body>
-</html>
