@@ -9,6 +9,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download The Latest Version</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Screenshots</a>
 <h2 style="font-family: Arial, sans-serif;">ℹ️ Features</h2>
 <h1 style="font-family: Consolas, sans-serif;">Note!</h1>
 <ul style="font-family: Arial, sans-serif;">
