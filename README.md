@@ -9,7 +9,7 @@
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0/GoogleOptimizer.bat" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimizer/releases/latest" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
 <p align="center">
  <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">    Screenshots</a>
 <p align="center">
@@ -73,6 +73,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimization-Batch/releases/tag/v5.0" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
+  <a href="https://github.com/TheSPEEDO/Google-Optimizer/releases/latest" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 </p>
 
