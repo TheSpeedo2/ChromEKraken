@@ -68,11 +68,10 @@
 <hr>
 
 <h2 style="font-family: Arial, sans-serif;">License 📜</h2>
-<p align="center" style="font-family: Arial, sans-serif;">
-  This project is licensed under the <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/LICENSE" style="color:#1E90FF; font-weight: bold; text-decoration: none;">MIT License</a>.
-</p>
+<p align="center" style="font-family: Arial, sans-serif;"></p>
+  <li> <strong>Fork it, Use it, Share it, its all open-source. i support free internet</li>
 
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimizer/releases/latest" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
+  <a href="https://github.com/TheSPEEDO/ChromEKraken/releases/latest" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 </p>
 
